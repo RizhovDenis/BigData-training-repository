@@ -13,18 +13,18 @@ These learning projects contain work with next libraries for data analysis:
 
 ## A/B test bakery description
 
-I prepared data for A/B testing. Then I made analyst of data and I made a decision about statistical significance.
+I prepared data for A/B testing. Then I made analyst of data, then I made a decision about statistical significance.
 
 ## Kaggle Digit Recognizer
-I use data on [kaggle](https://www.kaggle.com/competitions/digit-recognizer).
-I create model of neural networks for recognizing digits.
+I used data on [kaggle](https://www.kaggle.com/competitions/digit-recognizer).
+I created model of neural networks for recognizing digits.
 
 ## Parsing data
 
-I receive data about current weather on [the site](https://openweathermap.org/).
-Then I write forecast of weather in London and Moscow.
+I received data about current weather on [the site](https://openweathermap.org/).
+Then I wrote forecast of weather in London and Moscow.
 
 ## Search best tree/Titanic ML/Tree cats predict
 
 The projects on work with [Sklearn](https://scikit-learn.org/stable/). I tuned parameters of RandomForest/xgboost.
-Also I compared traits of GridSearchCV and RandomizedSearchCV
+Also I compared traits of GridSearchCV and RandomizedSearchCV.
